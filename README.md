@@ -6,8 +6,10 @@ To build a functional website and implement end-to-end user tracking using Googl
 ### 🛠️ Tools Used
 - **Google Analytics 4 (GA4)**: For data tracking and real-time monitoring.
 - **Google Sites**: For rapid web development and deployment.
-- **Chrome Developer Tools**: For verifying tag firing.
+<img width="1891" height="860" alt="Screenshot 2025-12-15 113820" src="https://github.com/user-attachments/assets/f40b30c2-cdd0-41c9-8858-69affc3d5926" />
+<img width="1914" height="866" alt="Screenshot 2025-12-15 120320" src="https://github.com/user-attachments/assets/8668d6d6-be8d-43dd-b9b3-b20cdff5230a" />
 
+**Chrome Developer Tools**: For verifying tag firing.
 ### 📝 What I Did (Step-by-Step)
 1. **Website Deployment:** Built and published "BloomCafe," a mock coffee shop landing page.
 2. **GA4 Configuration:** Created a new GA4 property and web data stream.
@@ -24,5 +26,4 @@ To build a functional website and implement end-to-end user tracking using Googl
 - Understood how browser caching and "Draft" modes can block analytics tags from firing.
 - Gained experience in debugging tag implementation issues.
 
----
 *Project by Prathibha
